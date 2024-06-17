@@ -1,8 +1,8 @@
 #include <stdio.h>
-#include "algorithms/task/4_get_variance.h"
+#include "algorithms/task/3_get_rectangle_intersection.h"
 
 int main() {
-    get_variance();
+    get_rectangle_intersection();
 
     return 0;
 }
