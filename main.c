@@ -1,8 +1,8 @@
 #include <stdio.h>
-#include "algorithms/task/6_find_all_hidden_columns.h"
+#include "algorithms/task/7_rounding_numbers.h"
 
 int main() {
-    find_all_hidden_columns();
+    rounding_numbers();
 
     return 0;
 }

@@ -52,6 +52,9 @@ void find_all_hidden_columns() {
         if (uni_in_mat && all_zero_in_res)
             printf("%d ", j);
     }
+
+    free_mem_matrix(&mat);
+    free_mem_matrix(&res);
 }
 
 #endif //CODE_6_FIND_ALL_HIDDEN_COLUMNS_H

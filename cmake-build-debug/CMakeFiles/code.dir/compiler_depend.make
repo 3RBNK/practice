@@ -38,16 +38,23 @@ CMakeFiles/code.dir/data_structures/matrix/matrix.c.o: /home/bnkr/Рабочий
   /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h
 
 CMakeFiles/code.dir/main.c.o: /home/bnkr/Рабочий\ стол/educational_practice/for\ code/practice/main.c \
-  /home/bnkr/Рабочий\ стол/educational_practice/for\ code/practice/data_structures/matrix/matrix.h \
-  /home/bnkr/Рабочий\ стол/educational_practice/for\ code/practice/algorithms/task/6_find_all_hidden_columns.h \
+  /home/bnkr/Рабочий\ стол/educational_practice/for\ code/practice/algorithms/task/7_rounding_numbers.h \
   /usr/include/features-time64.h \
   /usr/include/features.h \
+  /usr/include/math.h \
   /usr/include/stdc-predef.h \
   /usr/include/stdio.h \
   /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
   /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/flt-eval-method.h \
+  /usr/include/x86_64-linux-gnu/bits/fp-fast.h \
+  /usr/include/x86_64-linux-gnu/bits/fp-logb.h \
   /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
   /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/math-vector.h \
+  /usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h \
+  /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/time64.h \
   /usr/include/x86_64-linux-gnu/bits/timesize.h \
@@ -65,15 +72,26 @@ CMakeFiles/code.dir/main.c.o: /home/bnkr/Рабочий\ стол/educational_pr
   /usr/include/x86_64-linux-gnu/gnu/stubs.h \
   /usr/include/x86_64-linux-gnu/sys/cdefs.h \
   /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h \
   /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h
 
 
-/home/bnkr/Рабочий\ стол/educational_practice/for\ code/practice/algorithms/task/6_find_all_hidden_columns.h:
+/usr/include/x86_64-linux-gnu/bits/mathcalls.h:
+
+/usr/include/x86_64-linux-gnu/bits/fp-logb.h:
+
+/usr/include/x86_64-linux-gnu/bits/fp-fast.h:
+
+/usr/include/x86_64-linux-gnu/bits/flt-eval-method.h:
+
+/usr/include/math.h:
+
+/home/bnkr/Рабочий\ стол/educational_practice/for\ code/practice/algorithms/task/7_rounding_numbers.h:
 
 /usr/include/x86_64-linux-gnu/bits/long-double.h:
 
 /usr/include/string.h:
+
+/usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h:
 
 /usr/include/stdio.h:
 
@@ -92,6 +110,8 @@ CMakeFiles/code.dir/main.c.o: /home/bnkr/Рабочий\ стол/educational_pr
 /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h:
+
+/usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h:
 
 /usr/include/features-time64.h:
 
@@ -140,5 +160,7 @@ CMakeFiles/code.dir/main.c.o: /home/bnkr/Рабочий\ стол/educational_pr
 /usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h:
+
+/usr/include/x86_64-linux-gnu/bits/math-vector.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h:

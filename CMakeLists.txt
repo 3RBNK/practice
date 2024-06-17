@@ -11,4 +11,5 @@ add_executable(code main.c
         data_structures/matrix/matrix.h
         data_structures/matrix/matrix.c
         algorithms/task/6_find_all_hidden_columns.h
+        algorithms/task/7_rounding_numbers.h
 )

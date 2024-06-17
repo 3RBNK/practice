@@ -24,6 +24,11 @@ CMakeFiles/code.dir/main.c.o: \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
  /usr/include/x86_64-linux-gnu/bits/floatn.h \
  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
- /home/bnkr/Рабочий\ стол/educational_practice/for\ code/practice/algorithms/task/6_find_all_hidden_columns.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h \
- /home/bnkr/Рабочий\ стол/educational_practice/for\ code/practice/algorithms/task/../../data_structures/matrix/matrix.h
+ /home/bnkr/Рабочий\ стол/educational_practice/for\ code/practice/algorithms/task/7_rounding_numbers.h \
+ /usr/include/math.h /usr/include/x86_64-linux-gnu/bits/math-vector.h \
+ /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
+ /usr/include/x86_64-linux-gnu/bits/flt-eval-method.h \
+ /usr/include/x86_64-linux-gnu/bits/fp-logb.h \
+ /usr/include/x86_64-linux-gnu/bits/fp-fast.h \
+ /usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h \
+ /usr/include/x86_64-linux-gnu/bits/mathcalls.h
