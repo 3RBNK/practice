@@ -1,0 +1,117 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/bnkr/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/app/clion/clion-2024.1.1/bin/cmake/linux/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/bnkr/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/app/clion/clion-2024.1.1/bin/cmake/linux/x64/share/cmake-3.28/Modules/Platform/Linux-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/bnkr/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/app/clion/clion-2024.1.1/bin/cmake/linux/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/bnkr/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/app/clion/clion-2024.1.1/bin/cmake/linux/x64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/bnkr/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/app/clion/clion-2024.1.1/bin/cmake/linux/x64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/bnkr/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/app/clion/clion-2024.1.1/bin/cmake/linux/x64/share/cmake-3.28/Modules/Platform/Linux.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/bnkr/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/app/clion/clion-2024.1.1/bin/cmake/linux/x64/share/cmake-3.28/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/bnkr/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/app/clion/clion-2024.1.1/bin/cmake/linux/x64/share/cmake-3.28/Modules/CMakeFindCodeBlocks.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/bnkr/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/app/clion/clion-2024.1.1/bin/cmake/linux/x64/share/cmake-3.28/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/bnkr/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/app/clion/clion-2024.1.1/bin/cmake/linux/x64/share/cmake-3.28/Modules/ProcessorCount.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/bnkr/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/app/clion/clion-2024.1.1/bin/cmake/linux/x64/share/cmake-3.28/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/bnkr/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/app/clion/clion-2024.1.1/bin/cmake/linux/x64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/bnkr/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/app/clion/clion-2024.1.1/bin/cmake/linux/x64/share/cmake-3.28/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/bnkr/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/app/clion/clion-2024.1.1/bin/cmake/linux/x64/share/cmake-3.28/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/bnkr/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/app/clion/clion-2024.1.1/bin/cmake/linux/x64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/bnkr/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/app/clion/clion-2024.1.1/bin/cmake/linux/x64/share/cmake-3.28/Modules/Platform/Linux-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/bnkr/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/app/clion/clion-2024.1.1/bin/cmake/linux/x64/share/cmake-3.28/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/bnkr/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/app/clion/clion-2024.1.1/bin/cmake/linux/x64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/home/bnkr/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/educational_practice/for code/practice/cmake-build-debug",
+		"source" : "/home/bnkr/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/educational_practice/for code/practice"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

@@ -2,10 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "code.exe"
-		},
-		{
-			"path" : "code.pdb"
+			"path" : "code"
 		}
 	],
 	"backtrace" : 1,
@@ -68,16 +65,12 @@
 			{
 				"fragment" : "",
 				"role" : "flags"
-			},
-			{
-				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
-				"role" : "libraries"
 			}
 		],
 		"language" : "C"
 	},
 	"name" : "code",
-	"nameOnDisk" : "code.exe",
+	"nameOnDisk" : "code",
 	"paths" : 
 	{
 		"build" : ".",
@@ -97,7 +90,8 @@
 			"sourceIndexes" : 
 			[
 				1,
-				2
+				2,
+				3
 			]
 		}
 	],
@@ -117,6 +111,11 @@
 		{
 			"backtrace" : 1,
 			"path" : "algorithms/task/2_determine_type_quadrilateral.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "algorithms/task/4_get_variance.h",
 			"sourceGroupIndex" : 1
 		}
 	],
