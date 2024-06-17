@@ -129,6 +129,30 @@ code/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/code.dir/build.make CMakeFiles/code.dir/build
 .PHONY : code/fast
 
+data_structures/matrix/matrix.o: data_structures/matrix/matrix.c.o
+.PHONY : data_structures/matrix/matrix.o
+
+# target to build an object file
+data_structures/matrix/matrix.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/code.dir/build.make CMakeFiles/code.dir/data_structures/matrix/matrix.c.o
+.PHONY : data_structures/matrix/matrix.c.o
+
+data_structures/matrix/matrix.i: data_structures/matrix/matrix.c.i
+.PHONY : data_structures/matrix/matrix.i
+
+# target to preprocess a source file
+data_structures/matrix/matrix.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/code.dir/build.make CMakeFiles/code.dir/data_structures/matrix/matrix.c.i
+.PHONY : data_structures/matrix/matrix.c.i
+
+data_structures/matrix/matrix.s: data_structures/matrix/matrix.c.s
+.PHONY : data_structures/matrix/matrix.s
+
+# target to generate assembly for a file
+data_structures/matrix/matrix.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/code.dir/build.make CMakeFiles/code.dir/data_structures/matrix/matrix.c.s
+.PHONY : data_structures/matrix/matrix.c.s
+
 main.o: main.c.o
 .PHONY : main.o
 
@@ -162,6 +186,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... code"
+	@echo "... data_structures/matrix/matrix.o"
+	@echo "... data_structures/matrix/matrix.i"
+	@echo "... data_structures/matrix/matrix.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

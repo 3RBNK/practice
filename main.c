@@ -1,8 +1,8 @@
 #include <stdio.h>
-#include "algorithms/task/3_get_rectangle_intersection.h"
+#include "algorithms/task/6_find_all_hidden_columns.h"
 
 int main() {
-    get_rectangle_intersection();
+    find_all_hidden_columns();
 
     return 0;
 }

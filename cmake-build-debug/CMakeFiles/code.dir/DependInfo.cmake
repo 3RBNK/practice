@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/bnkr/Рабочий стол/educational_practice/for code/practice/data_structures/matrix/matrix.c" "CMakeFiles/code.dir/data_structures/matrix/matrix.c.o" "gcc" "CMakeFiles/code.dir/data_structures/matrix/matrix.c.o.d"
   "/home/bnkr/Рабочий стол/educational_practice/for code/practice/main.c" "CMakeFiles/code.dir/main.c.o" "gcc" "CMakeFiles/code.dir/main.c.o.d"
   )
 

@@ -88,6 +88,15 @@
 		<Unit filename="/home/bnkr/Рабочий стол/educational_practice/for code/practice/algorithms/task/4_get_variance.h">
 			<Option target="code"/>
 		</Unit>
+		<Unit filename="/home/bnkr/Рабочий стол/educational_practice/for code/practice/algorithms/task/6_find_all_hidden_columns.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/bnkr/Рабочий стол/educational_practice/for code/practice/data_structures/matrix/matrix.c">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/bnkr/Рабочий стол/educational_practice/for code/practice/data_structures/matrix/matrix.h">
+			<Option target="code"/>
+		</Unit>
 		<Unit filename="/home/bnkr/Рабочий стол/educational_practice/for code/practice/main.c">
 			<Option target="code"/>
 		</Unit>

@@ -51,7 +51,13 @@ void get_rectangle_intersection() {
 
         result = intersection(&rect, &result);
 
-        printf("area after %d intersection: %d \n", i + 2, (result.b - result.a) * (result.d - result.c));
+        const int widht = result.b - result.a;
+        const int height = result.d - result.c;
+
+        if (widht < 0 || height < 0)
+            printf("area after %d intersection: 0 \n", i + 2);
+        else
+            printf("area after %d intersection: %d \n", i + 2, widht * height);
     }
 }
 
